@@ -1,12 +1,12 @@
-*{
-    background-color: beige;
+* {
+  background-color: beige;
 }
-#heading{
-    font-size:xx-large;
-    font-family:'Times New Roman', Times, serif;
-    color: rgb(231, 10, 47);
+#heading {
+  font-size: xx-large;
+  font-family: "Times New Roman", Times, serif;
+  color: rgb(231, 10, 47);
 }
-#para{
-    font-size: larger;
-    font-family: 'Times New Roman', Times, serif;
+#para {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
 }
